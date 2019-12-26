@@ -1,0 +1,6 @@
+echo "# Vlaal" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Vlaalex/Vlaal.git
+git push -u origin master
